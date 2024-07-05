@@ -1,0 +1,17 @@
+
+<%-include("partials/header.ejs")%>
+   
+   
+   <h1>Philip's Blog posts</h1>
+   
+   
+  <% for (let i=0; i<blogPosts.length; i++){ %>
+   <button class="button">
+   <%= blogPosts[i].postTitle %>
+   </button><br>
+  <% }; %>
+
+<%-include("partials/footer.ejs")%>
+
+
+   
