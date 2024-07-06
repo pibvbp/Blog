@@ -1,5 +1,3 @@
-/*do I need to push this*/
-
 import express from "express";
 import bodyParser from "body-parser";
 
