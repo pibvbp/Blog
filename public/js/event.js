@@ -1,1 +1,1 @@
-console.log("Loaded again client side JS jusy for the fun of it");
+console.log("Loaded client side JS jusy for the fun of it"); //console logs client side
